@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  },
+  "include": [
+    "./**/*.js",
+    "./**/*.js",
+    "src/components/",
+    "src/components/Pagination_And_Search"
+  ]
+}
